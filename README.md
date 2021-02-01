@@ -1,2 +1,3 @@
-# Arduino
-Projecto que hemos echo en clase 
+# proyecto de Arduino
+## Empezando a documentar
+Esta es mi Primerita Vez
