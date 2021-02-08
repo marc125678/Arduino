@@ -14,4 +14,4 @@ Esta es mi Primerita Vez
 
 [Melodia Oda a la alegría](https://github.com/marc125678/Arduino/blob/main/Oda_a_la_alegr_a.ino)
 
-[proyecto SNIPPET KILL](https://github.com/marc125678/Arduino/blob/main/SNIPPET_KILL%20SWITCH.CPP)
+[proyecto SNIPPET KILL](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
