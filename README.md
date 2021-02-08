@@ -17,3 +17,5 @@ Esta es mi Primerita Vez
 [proyecto SNIPPET KILL](https://github.com/marc125678/Arduino/blob/main/SNIPPET_KILL%20SWITCH.CPP)
 
 [Repositorio de compañeros](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
+
+![foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210208_123210.jpg)
