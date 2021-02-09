@@ -23,3 +23,4 @@ Esta es mi Primerita Vez
 
 [botones en movimiento](https://github.com/marc125678/Arduino/blob/main/botones_movimiento_Marc.ino)
 
+![foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210209_120227.jpg)
