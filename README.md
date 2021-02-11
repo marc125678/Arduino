@@ -6,7 +6,11 @@ Este texto no tiene formato **Este esta en negrita**. Y, ademas _este esta en cu
 
 <b> nombre </b> Bold
 <i> nombre</i> Italics
-<del> nombre</del> Deletedtext 
+<del> nombre</del> Deletedtext
+
+Hola, soy Marc y...... Esto es un repositorio de arduino... lo he hecho en clase.... me gusta mucho
+
+## Descripcion del proyecto
 [informacion Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 [Proyecto con kill switch para utilizar y con led rgb](https://github.com/marc125678/Arduino/blob/main/KILL_SWITCH.ino)
