@@ -2,6 +2,11 @@
 ## Empezando a documentar
 Esta es mi Primerita Vez
 
+Este texto no tiene formato **Este esta en negrita**. Y, ademas _este esta en cursiva_.
+
+<b> nombre </6> Bold
+<i> nombre</i> Italics
+<del> nombre</del> Deletedtext 
 [informacion Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 [Proyecto con kill switch para utilizar y con led rgb](https://github.com/marc125678/Arduino/blob/main/KILL_SWITCH.ino)
@@ -24,3 +29,4 @@ Esta es mi Primerita Vez
 [botones en movimiento](https://github.com/marc125678/Arduino/blob/main/botones_movimiento_Marc.ino)
 
 ![foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210209_120227.jpg)
+
