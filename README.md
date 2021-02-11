@@ -41,5 +41,5 @@ Hola, soy Marc y...... Esto es un repositorio de arduino... lo he hecho en clase
 ## proyectos sensor de temperatura
 ## proyectos con led rgb
 ## proyectos con pieza altavoz
-## proyectos con sensormotor y potenciómetro
+## proyectos con servomotor y potenciómetro
 
