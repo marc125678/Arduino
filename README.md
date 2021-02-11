@@ -1,18 +1,33 @@
-# proyecto de Arduino
-## Empezando a documentar
-Esta es mi Primerita Vez
 
-Este texto no tiene formato **Este esta en negrita**. Y, ademas _este esta en cursiva_.
-
-<b> nombre </b> Bold
-<i> nombre</i> Italics
-<del> nombre</del> Deletedtext
+# Arduino 
 ## Descripcion del proyecto
-Hola, soy Marc y...... Esto es un repositorio de arduino... lo he hecho en clase.... me gusta mucho
+
+Hola, soy Marc y... Esto es un repositorio de arduino... lo he hecho en clase... me gusta mucho. 
+
+## Indices de proyectos
+
+* [Proyectos solo con led y botón]()
+* [Proyectos con sensor de temperatura]()
+
+## proyectos realizados
+
+### Proyectos solo con led y botón
+
+
+### proyectos sensor de temperatura
+
+### proyectos con led rgb
+
+
+[Proyecto con kill switch para utilizar y con led rgb](https://github.com/marc125678/Arduino/blob/main/KILL_SWITCH.ino)
+
+### proyectos con servomotor y potenciómetro
+
+### otros enlaces y documentación
+
 
 [informacion Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-[Proyecto con kill switch para utilizar y con led rgb](https://github.com/marc125678/Arduino/blob/main/KILL_SWITCH.ino)
 
 [qASWDFGHJKASDFGHJKL](https://github.com/marc125678/Arduino/blob/main/PWM3.ino)
 
@@ -33,13 +48,16 @@ Hola, soy Marc y...... Esto es un repositorio de arduino... lo he hecho en clase
 
 ![foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210209_120227.jpg)
 
-## Arduino 
+### Empezando a documentar
+Esta es mi Primerita Vez
+
+Este texto no tiene formato **Este esta en negrita**. Y, ademas _este esta en cursiva_.
+
+<b> nombre </b> Bold
+<i> nombre</i> Italics
+<del> nombre</del> Deletedtext
 ## Descripcion del proyecto
-## Indices de proyectos
-## proyectos realizados
-## proyecto con solo led y botones 
-## proyectos sensor de temperatura
-## proyectos con led rgb
-## proyectos con pieza altavoz
-## proyectos con servomotor y potenciómetro
+
+
+
 
