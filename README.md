@@ -6,7 +6,7 @@ Hola, soy Marc y... Esto es un repositorio de arduino... lo he hecho en clase...
 
 ## Indices de proyectos
 
-* [Proyectos solo con led y botón]()
+* [Proyectos solo con led y botón](https://github.com/marc125678/Arduino/blob/main/README.md#proyectos-solo-con-led-y-bot%C3%B3n)
 * [Proyectos con sensor de temperatura]()
 
 ## proyectos realizados
