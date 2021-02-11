@@ -10,21 +10,21 @@ Hola, soy Marc y... Esto es un repositorio de arduino... lo he hecho en clase...
 * [Proyectos con sensor de temperatura]()
 
 ## proyectos realizados
-*[proyectos realizados](https://github.com/marc125678/Arduino#proyectos-realizados)
+* [proyectos realizados](https://github.com/marc125678/Arduino#proyectos-realizados)
 ### Proyectos solo con led y botón
-*[Proyectos slo con led y botón](https://github.com/marc125678/Arduino/blob/main/README.md#proyectos-solo-con-led-y-bot%C3%B3n)
+* [Proyectos slo con led y botón](https://github.com/marc125678/Arduino/blob/main/README.md#proyectos-solo-con-led-y-bot%C3%B3n)
 
 ### proyectos sensor de temperatura
-*[Proyectos sensor de temperatura](https://github.com/marc125678/Arduino#proyectos-sensor-de-temperatura)
+* [Proyectos sensor de temperatura](https://github.com/marc125678/Arduino#proyectos-sensor-de-temperatura)
 ### proyectos con led rgb
-*[proyecto con led rgb](https://github.com/marc125678/Arduino#proyectos-con-led-rgb)
+* [proyecto con led rgb](https://github.com/marc125678/Arduino#proyectos-con-led-rgb)
 
 [Proyecto con kill switch para utilizar y con led rgb](https://github.com/marc125678/Arduino/blob/main/KILL_SWITCH.ino)
 
 ### proyectos con servomotor y potenciómetro
-*[Proyectos con servomotor y potenciómetro](https://github.com/marc125678/Arduino#proyectos-con-servomotor-y-potenci%C3%B3metro)
+* [Proyectos con servomotor y potenciómetro](https://github.com/marc125678/Arduino#proyectos-con-servomotor-y-potenci%C3%B3metro)
 ### otros enlaces y documentación
-*[otros enlaces y documentación](https://github.com/marc125678/Arduino#otros-enlaces-y-documentaci%C3%B3n)
+* [otros enlaces y documentación](https://github.com/marc125678/Arduino#otros-enlaces-y-documentaci%C3%B3n)
 
 [informacion Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
