@@ -38,8 +38,8 @@ Hola, soy Marc y...... Esto es un repositorio de arduino... lo he hecho en clase
 ## Indices de proyectos
 ## proyectos realizados
 ## proyecto con solo led y botones 
-## proyectos sesnor de temperatura
+## proyectos sensor de temperatura
 ## proyectos con led rgb
 ## proyectos con pieza altavoz
-## proyectos con sensormotor y potenciometro
+## proyectos con sensormotor y potenciómetro
 
