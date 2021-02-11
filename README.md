@@ -40,7 +40,6 @@ Este texto no tiene formato **Este esta en negrita**. Y, ademas _este esta en cu
 <b> nombre </b> Bold
 <i> nombre</i> Italics
 <del> nombre</del> Deletedtext
-## Descripcion del proyecto
 
 
 
