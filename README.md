@@ -34,5 +34,12 @@ Hola, soy Marc y...... Esto es un repositorio de arduino... lo he hecho en clase
 ![foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210209_120227.jpg)
 
 ## Arduino 
+## Descripcion del proyecto
+## Indices de proyectos
+## proyectos realizados
+## proyecto con solo led y botones 
+## proyectos sesnor de temperatura
+## proyectos con led rgb
+## proyectos con pieza altavoz
+## proyectos con sensormotor y potenciometro
 
-## Proyectos realizados
