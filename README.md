@@ -3,7 +3,7 @@
 ## Descripcion del proyecto
 Hola, soy Marc y... Esto es un repositorio de arduino... lo he hecho en clase... me gusta mucho. 
 
-## Indices de proyectos
+## Índice de proyectos
 
 * [Proyectos solo con led y botón](https://github.com/marc125678/Arduino/blob/main/README.md#proyectos-solo-con-led-y-bot%C3%B3n)
 * [Proyectos con sensor de temperatura]()
@@ -34,6 +34,7 @@ falta
 
 ### proyectos con servomotor y potenciómetro
 
+[Proyecto de Luz RGB con potenciómetro](https://github.com/marc125678/Arduino/blob/main/rgb%20y%20potenciometro.ino)
 * ![foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210208_123210.jpg)
 * ![foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210209_120227.jpg)
 
