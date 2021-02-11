@@ -4,7 +4,7 @@ Esta es mi Primerita Vez
 
 Este texto no tiene formato **Este esta en negrita**. Y, ademas _este esta en cursiva_.
 
-<b> nombre </6> Bold
+<6> nombre </6> Bold
 <i> nombre</i> Italics
 <del> nombre</del> Deletedtext 
 [informacion Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
