@@ -12,7 +12,7 @@ Hola, soy Marc y... Esto es un repositorio de arduino... lo he hecho en clase...
 ## proyectos realizados
 * [proyectos realizados](https://github.com/marc125678/Arduino#proyectos-realizados)
 ### Proyectos solo con led y botón
-* [Proyectos slo con led y botón](https://github.com/marc125678/Arduino/blob/main/README.md#proyectos-solo-con-led-y-bot%C3%B3n)
+* [Proyectos solo con led y botón](https://github.com/marc125678/Arduino/blob/main/README.md#proyectos-solo-con-led-y-bot%C3%B3n)
 
 ### proyectos sensor de temperatura
 * [Proyectos sensor de temperatura](https://github.com/marc125678/Arduino#proyectos-sensor-de-temperatura)
