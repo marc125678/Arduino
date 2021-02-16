@@ -37,7 +37,7 @@ falta
 [Proyecto de Luz RGB con potenciómetro](https://github.com/marc125678/Arduino/blob/main/rgb%20y%20potenciometro.ino)
 * ![foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210208_123210.jpg)
 * ![foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210209_120227.jpg)
-
+* ![foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210216_122330.jpg)
 
 ### otros enlaces y documentación
 
