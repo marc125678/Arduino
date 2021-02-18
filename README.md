@@ -34,6 +34,10 @@ falta
 
 ### proyectos con servomotor y potenciómetro
 
+### proyecto Molinillo Motorizado
+* [proyecto Molinillo Motorizado](https://github.com/marc125678/Arduino/blob/main/proyecto_molinillo_motorizado.ino)
+* [Foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210218_105032.jpg)
+
 [Proyecto de Luz RGB con potenciómetro](https://github.com/marc125678/Arduino/blob/main/rgb%20y%20potenciometro.ino)
 * ![foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210208_123210.jpg)
 * ![foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210209_120227.jpg)
