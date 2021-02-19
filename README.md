@@ -43,6 +43,8 @@ falta
 * ![foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210209_120227.jpg)
 * ![foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210216_122330.jpg)
 
+###proyecto potenciometreValue
+*![foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210219_132300.jpg)
 ### otros enlaces y documentación
 
 * [Proyecto SNIPPET KILL](https://github.com/marc125678/Arduino/blob/main/SNIPPET_KILL%20SWITCH.CPP)
