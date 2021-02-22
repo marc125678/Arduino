@@ -45,15 +45,18 @@ falta
 
 ###proyecto potenciometreValue
 *![foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210219_132300.jpg)
+
+
+### proyecto molinillo motorizado
+[proyecto molinillo motorizado](https://github.com/marc125678/Arduino/blob/main/proyecto_molinillo_motorizado.ino)
+[foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210219_132300.jpg)
+
 ### otros enlaces y documentación
 
 * [Proyecto SNIPPET KILL](https://github.com/marc125678/Arduino/blob/main/SNIPPET_KILL%20SWITCH.CPP)
 * [otros enlaces y documentación](https://github.com/marc125678/Arduino#otros-enlaces-y-documentaci%C3%B3n)
 * [Repositorio de compañeros](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
 
-### proyecto molinillo motorizado
-[proyecto molinillo motorizado](https://github.com/marc125678/Arduino/blob/main/proyecto_molinillo_motorizado.ino)
-[foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210219_132300.jpg)
 ### Empezando a documentar
 Esta es mi Primerita Vez
 
