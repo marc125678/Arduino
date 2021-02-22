@@ -51,6 +51,8 @@ falta
 * [otros enlaces y documentación](https://github.com/marc125678/Arduino#otros-enlaces-y-documentaci%C3%B3n)
 * [Repositorio de compañeros](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
 
+### proyecto molinillo motorizado
+[proyecto molinillo motorizado](https://github.com/marc125678/Arduino/blob/main/proyecto_molinillo_motorizado.ino)
 
 ### Empezando a documentar
 Esta es mi Primerita Vez
