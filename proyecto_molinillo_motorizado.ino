@@ -1,18 +1,13 @@
-const int switchPin= 2;
-const int motorPin= 9;
-int switchState= 0;
+
+const int motorPin= 6;
+int potenciometerValue=0;
+int motorValue=0;
 void setup() {
  pinMode(motorPin, OUTPUT);
- pinMode(switchPin, INPUT);
 } 
 void loop() {
-switchState = digitalRead(switchPin);
-if(switchState==HIGH) {
-  digitalWrite(motorPin, HIGH);
-}
-
-else {
-  digitalWrite(motorPin, LOW);
-}  
-
+potenciometerValue= analogRead(A0);
+motorValue = potenciometerValue /4;
+analogWrite(motorPin, motorValue);
+ 
 }
