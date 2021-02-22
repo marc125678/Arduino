@@ -53,7 +53,7 @@ falta
 
 ### proyecto molinillo motorizado
 [proyecto molinillo motorizado](https://github.com/marc125678/Arduino/blob/main/proyecto_molinillo_motorizado.ino)
-
+[foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210219_132300.jpg)
 ### Empezando a documentar
 Esta es mi Primerita Vez
 
