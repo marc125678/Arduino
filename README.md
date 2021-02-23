@@ -18,7 +18,6 @@ Hola, soy Marc y... Esto es un repositorio de arduino... lo he hecho en clase...
 
 
 ### proyectos sensor de temperatura
-
 falta
 
 ### proyectos con led rgb
