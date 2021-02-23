@@ -57,6 +57,11 @@ falta
 * [otros enlaces y documentación](https://github.com/marc125678/Arduino#otros-enlaces-y-documentaci%C3%B3n)
 * [Repositorio de compañeros](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
 
+### proyecto parpadeo de prueba
+[parpadeo de prueba](https://github.com/marc125678/Arduino/blob/main/Encender_Parpadeo_de_leds.ino)
+
+### reloj de arena proyecto
+[reloj de arena](https://github.com/marc125678/Arduino/blob/main/reloj_de_arena_marc.ino)
 ### Empezando a documentar
 Esta es mi Primerita Vez
 
