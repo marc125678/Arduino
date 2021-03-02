@@ -64,7 +64,7 @@ falta
 
 ### proyecto led con joystick
 [proyecto led con joystick](https://github.com/marc125678/Arduino/blob/main/proyecto_led_con_joystick.ino)
-[foto joystick](https://github.com/marc125678/Arduino/blob/main/IMG_20210302_132221.jpg)
+* [foto joystick](https://github.com/marc125678/Arduino/blob/main/IMG_20210302_132221.jpg)
 ### Empezando a documentar
 Esta es mi Primerita Vez
 
