@@ -66,6 +66,9 @@ falta
 [proyecto led con joystick](https://github.com/marc125678/Arduino/blob/main/proyecto_led_con_joystick_Marc_Navarro.ino)
 * [foto joystick](https://github.com/marc125678/Arduino/blob/main/IMG_20210302_132221.jpg)
 
+### proyecto media de notas.io
+[proyecto media de notas.io](https://github.com/marc125678/Arduino/blob/main/media_de_notas.io.ino)
+
 ### proyecto radar 
 falta
 
