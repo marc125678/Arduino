@@ -77,6 +77,9 @@ falta
 
 ### emoji
 [emoji arduino](https://github.com/marc125678/Arduino/tree/main/emoji_Marc)
+
+### EMOJI SORPRENDIDO
+[emoji sorprendido](https://github.com/marc125678/Arduino/blob/main/emoji_sorprendido.ino)
 ### Empezando a documentar
 Esta es mi Primerita Vez
 
