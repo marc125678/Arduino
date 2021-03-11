@@ -1,22 +1,37 @@
 // Incluimos la biblioteca 
 #include <LiquidCrystal.h>
+LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 
-// initialize the library by associating any needed LCD interface pin
-// with the arduino pin number it is connected to
-const int rs = 12, en = 11, d4 = 5, d5 = 4, d6 = 3, d7 = 2;
-LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
+byte smiley[8] = {
+  B00000,
+  B10001,
+  B00000,
+  B00000,
+  B01110,
+  B01010,
+  B01110,
+};
 
 void setup() {
-  // set up the LCD's number of columns and rows:
-  lcd.begin(16, 2);
-  // Print a message to the LCD.
-  lcd.print("hello, world!");
+  lcd.createChar(0, smiley);
+  lcd.begin(16, 2);  
+  lcd.write(byte(0));
 }
 
+
 void loop() {
-  // set the cursor to column 0, line 1
-  // (note: line 1 is the second row, since counting begins with 0):
-  lcd.setCursor(0, 1);
-  // print the number of seconds since reset:
-  lcd.print(millis() / 1000);
+  // Serial.available nos dice que tenemos bytes disponibles 
+  if (Serial.available()>1) {
+    // esperamos a que llegue todo el mensaje
+    delay(100);
+    // Le decimos a la pantalla que se ponga en blanco
+    lcd.clear();
+    // Leer todos los caracteres
+    while (Serial.available() > 1) {
+      // Poner uno por uno en el LCD
+      lcd.write(Serial.read());
+    }
+    // Destruimos el último byte del buffer que es un byte de "fin"
+    Serial.read();
+  }
 }
