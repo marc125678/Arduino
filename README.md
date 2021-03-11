@@ -74,6 +74,9 @@ falta
 
 ### proyecto solo con joystick
 [proyecto solo con joystick](https://github.com/marc125678/Arduino/blob/main/proyecto_con_solo_joystick.ino)
+
+### emoji
+[emoji arduino](https://github.com/marc125678/Arduino/tree/main/emoji_Marc)
 ### Empezando a documentar
 Esta es mi Primerita Vez
 
