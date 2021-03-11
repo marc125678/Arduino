@@ -78,15 +78,17 @@ falta
 ### emoji
 [emoji arduino](https://github.com/marc125678/Arduino/tree/main/emoji_Marc)
 
-### EMOJI SORPRENDIDO
 
-[foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210311_133758.jpg)
+
+
 
 ### hello word
 [hello word](https://github.com/marc125678/Arduino/blob/main/hello_word.ino)
 
 ### cara triste arduino
 [cara triste arduino](https://github.com/marc125678/Arduino/blob/main/cara_triste_arduino.ino)
+[foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210311_133758.jpg)
+
 ### Empezando a documentar
 Esta es mi Primerita Vez
 
