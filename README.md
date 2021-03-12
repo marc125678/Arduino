@@ -69,18 +69,11 @@ falta
 ### proyecto media de notas.io
 [proyecto media de notas.io](https://github.com/marc125678/Arduino/blob/main/media_de_notas.io.ino)
 
-### proyecto radar 
-falta
-
 ### proyecto solo con joystick
 [proyecto solo con joystick](https://github.com/marc125678/Arduino/blob/main/proyecto_con_solo_joystick.ino)
 
 ### emoji
 [emoji arduino](https://github.com/marc125678/Arduino/tree/main/emoji_Marc)
-
-
-
-
 
 ### hello word
 [hello word](https://github.com/marc125678/Arduino/blob/main/hello_word.ino)
