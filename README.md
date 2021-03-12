@@ -89,6 +89,9 @@ falta
 [cara triste arduino](https://github.com/marc125678/Arduino/blob/main/cara_triste_arduino.ino)
 [foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210311_133758.jpg)
 
+### Notas Iterador 
+[Notas Iterador](https://github.com/marc125678/Arduino/blob/main/Notas_iterador_Arduino_Marc.ino)
+
 ### Empezando a documentar
 Esta es mi Primerita Vez
 
