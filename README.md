@@ -90,7 +90,7 @@ falta
 [foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210311_133758.jpg)
 
 ### Notas Iterador 
-
+[Notas Iterador Arduino](https://github.com/marc125678/Arduino/blob/main/Notas_Iterador_Arduino.ino)
 
 ### Empezando a documentar
 Esta es mi Primerita Vez
