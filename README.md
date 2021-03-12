@@ -91,6 +91,9 @@ falta
 ### OPERADORES 
 [Operadores Arduino](https://github.com/marc125678/Arduino/blob/main/operadores_Arduino_Marc.ino)
 
+### Proyecto Lampara Tactil
+[Lampara Tactil](https://github.com/marc125678/Arduino/blob/main/lampara_tactil_Arduino_Marc.ino)
+
 ### Empezando a documentar
 Esta es mi Primerita Vez
 
