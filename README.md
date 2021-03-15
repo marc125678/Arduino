@@ -96,6 +96,7 @@ falta
 
 ### proyecto zootropo 
 [proyecto Zootropo](https://github.com/marc125678/Arduino/blob/main/ZOOTROPO_MARC_ARDUINO.ino)
+[foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210315_133019.jpg)
 
 ### Empezando a documentar
 Esta es mi Primerita Vez
