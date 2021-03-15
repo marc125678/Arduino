@@ -94,6 +94,9 @@ falta
 ### Proyecto Lampara Tactil
 [Lampara Tactil](https://github.com/marc125678/Arduino/blob/main/lampara_tactil_Arduino_Marc.ino)
 
+### proyecto zootropo 
+[proyecto Zootropo](https://github.com/marc125678/Arduino/blob/main/ZOOTROPO_MARC_ARDUINO.ino)
+
 ### Empezando a documentar
 Esta es mi Primerita Vez
 
