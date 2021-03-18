@@ -18,7 +18,7 @@ Hola, soy Marc y... Esto es un repositorio de arduino... lo he hecho en clase...
 
 
 ### proyectos sensor de temperatura
-falta
+[proyecto sensor de temperatura](https://github.com/marc125678/Arduino/blob/main/Sensor_de_Temperatura_Marc.ino)
 
 ### proyectos con led rgb
 
