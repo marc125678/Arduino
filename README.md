@@ -65,12 +65,15 @@ Hola, soy Marc y... Esto es un repositorio de arduino... lo he hecho en clase...
 ### proyecto led con joystick
 [proyecto led con joystick](https://github.com/marc125678/Arduino/blob/main/proyecto_led_con_joystick_Marc_Navarro.ino)
 *! [foto joystick](https://github.com/marc125678/Arduino/blob/main/IMG_20210302_132221.jpg)
+*![foto Joystick con leds encendidos](https://github.com/XXDARKNIGHTXX/arduino/blob/main/IMG_20210318_123940.jpg)
+*![foto Joystick con leds apagados](https://github.com/XXDARKNIGHTXX/arduino/blob/main/IMG_20210318_133853.jpg) (Victor)
 
 ### proyecto media de notas.io
 [proyecto media de notas.io](https://github.com/marc125678/Arduino/blob/main/media_de_notas.io.ino)
 
 ### proyecto solo con joystick
 [proyecto solo con joystick](https://github.com/marc125678/Arduino/blob/main/proyecto_con_solo_joystick.ino)
+
 
 ### emoji
 [emoji arduino](https://github.com/marc125678/Arduino/tree/main/emoji_Marc)
