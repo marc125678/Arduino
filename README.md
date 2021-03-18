@@ -91,6 +91,9 @@ Hola, soy Marc y... Esto es un repositorio de arduino... lo he hecho en clase...
 *![foto 2 del radar](https://user-images.githubusercontent.com/78345753/111597553-8fc50a80-87ce-11eb-82e6-098d0aa3e5ef.png)
 *![foto 3 del radar](https://raw.githubusercontent.com/chenbangwei/Arduino/main/funcion%20a%20la%20derecha.jpg) (bang)
 
+*![foto 4 del radar](https://github.com/Wesley3455/Arduino-/blob/main/1615280440737.jpg)
+*![foto 5 del radar](https://github.com/Wesley3455/Arduino-/blob/main/1615280440742.jpg) (Wesley)
+
 
 ### OPERADORES 
 [Operadores Arduino](https://github.com/marc125678/Arduino/blob/main/operadores_Arduino_Marc.ino)
