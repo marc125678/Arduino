@@ -35,7 +35,7 @@ Hola, soy Marc y... Esto es un repositorio de arduino... lo he hecho en clase...
 
 ### proyecto Molinillo Motorizado
 * [proyecto Molinillo Motorizado](https://github.com/marc125678/Arduino/blob/main/proyecto_molinillo_motorizado.ino)
-* [Foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210218_105032.jpg)
+*![Foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210218_105032.jpg)
 
 [Proyecto de Luz RGB con potenciómetro](https://github.com/marc125678/Arduino/blob/main/rgb%20y%20potenciometro.ino)
 * ![foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210208_123210.jpg)
@@ -48,7 +48,7 @@ Hola, soy Marc y... Esto es un repositorio de arduino... lo he hecho en clase...
 
 ### proyecto molinillo motorizado
 [proyecto molinillo motorizado](https://github.com/marc125678/Arduino/blob/main/proyecto_molinillo_motorizado.ino)
-[foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210219_132300.jpg)
+*![foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210219_132300.jpg)
 
 ### otros enlaces y documentación
 
@@ -64,7 +64,7 @@ Hola, soy Marc y... Esto es un repositorio de arduino... lo he hecho en clase...
 
 ### proyecto led con joystick
 [proyecto led con joystick](https://github.com/marc125678/Arduino/blob/main/proyecto_led_con_joystick_Marc_Navarro.ino)
-* [foto joystick](https://github.com/marc125678/Arduino/blob/main/IMG_20210302_132221.jpg)
+*! [foto joystick](https://github.com/marc125678/Arduino/blob/main/IMG_20210302_132221.jpg)
 
 ### proyecto media de notas.io
 [proyecto media de notas.io](https://github.com/marc125678/Arduino/blob/main/media_de_notas.io.ino)
@@ -96,7 +96,7 @@ Hola, soy Marc y... Esto es un repositorio de arduino... lo he hecho en clase...
 
 ### proyecto zootropo 
 [proyecto Zootropo](https://github.com/marc125678/Arduino/blob/main/ZOOTROPO_MARC_ARDUINO.ino)
-[foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210315_133019.jpg)
+*![foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210315_133019.jpg)
 
 ### proyecto Refactorizando el reloj digital
 [proyecto Refactorizando el reloj digital](https://github.com/marc125678/Arduino/blob/main/Refactorizando_el_reloj_digital_Marc.ino)
