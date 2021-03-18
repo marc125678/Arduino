@@ -87,6 +87,10 @@ Hola, soy Marc y... Esto es un repositorio de arduino... lo he hecho en clase...
 
 ### Radar 
 [Radar Ardino](https://github.com/marc125678/Arduino/blob/main/Radar_Arduino_Marc.ino)
+*![foto radar](https://raw.githubusercontent.com/chenbangwei/Arduino/main/radar.jpg)
+*![foto 2 del radar](https://user-images.githubusercontent.com/78345753/111597553-8fc50a80-87ce-11eb-82e6-098d0aa3e5ef.png)
+*![foto 3 del radar](https://raw.githubusercontent.com/chenbangwei/Arduino/main/funcion%20a%20la%20derecha.jpg) (bang)
+
 
 ### OPERADORES 
 [Operadores Arduino](https://github.com/marc125678/Arduino/blob/main/operadores_Arduino_Marc.ino)
@@ -103,6 +107,8 @@ Hola, soy Marc y... Esto es un repositorio de arduino... lo he hecho en clase...
 
 ### Creando una secuencia de apagado
 [Creando una Secuencia de Apagado](https://github.com/marc125678/Arduino/blob/main/Creando_una_secuencia_de_apagado_marc.ino)
+
+
 
 
 ### Empezando a documentar
