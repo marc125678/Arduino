@@ -98,6 +98,9 @@ Hola, soy Marc y... Esto es un repositorio de arduino... lo he hecho en clase...
 [proyecto Zootropo](https://github.com/marc125678/Arduino/blob/main/ZOOTROPO_MARC_ARDUINO.ino)
 [foto](https://github.com/marc125678/Arduino/blob/main/IMG_20210315_133019.jpg)
 
+### proyecto Refactorizando el reloj digital
+[proyecto Refactorizando el reloj digital](https://github.com/marc125678/Arduino/blob/main/Refactorizando_el_reloj_digital_Marc.ino)
+
 ### Empezando a documentar
 Esta es mi Primerita Vez
 
