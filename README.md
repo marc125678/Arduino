@@ -78,7 +78,8 @@ Hola, soy Marc y... Esto es un repositorio de arduino... lo he hecho en clase...
 
 ### proyecto solo con joystick
 [proyecto solo con joystick](https://github.com/marc125678/Arduino/blob/main/proyecto_con_solo_joystick.ino)
-
+[joystick variacion 02.ino](https://github.com/marc125678/Arduino/blob/main/Joystick_variacion_02.ino.ino)
+[joystick variacion altavoz](https://github.com/marc125678/Arduino/blob/main/Joystick_variacion_altavoz_Marc.ino)
 
 ### emoji
 [emoji arduino](https://github.com/marc125678/Arduino/tree/main/emoji_Marc)
