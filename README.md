@@ -14,7 +14,7 @@ Hola, soy Marc y... Esto es un repositorio de arduino... lo he hecho en clase...
 
 ### Codigo Morse Arduino
 [codigo morse arduino](https://github.com/marc125678/Arduino/blob/main/Codigo_Morse_Marc.ino)
-
+[codigo morse funciones arduino](https://github.com/marc125678/Arduino/blob/main/Codigo_Morse_Marc_2.ino)
 
 ### Proyectos solo con led y botón
 
