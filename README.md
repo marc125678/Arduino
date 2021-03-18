@@ -101,6 +101,10 @@ Hola, soy Marc y... Esto es un repositorio de arduino... lo he hecho en clase...
 ### proyecto Refactorizando el reloj digital
 [proyecto Refactorizando el reloj digital](https://github.com/marc125678/Arduino/blob/main/Refactorizando_el_reloj_digital_Marc.ino)
 
+### Creando una secuencia de apagado
+[Creando una Secuencia de Apagado](https://github.com/marc125678/Arduino/blob/main/Creando_una_secuencia_de_apagado_marc.ino)
+
+
 ### Empezando a documentar
 Esta es mi Primerita Vez
 
