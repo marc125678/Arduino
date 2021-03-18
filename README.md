@@ -11,6 +11,11 @@ Hola, soy Marc y... Esto es un repositorio de arduino... lo he hecho en clase...
 
 ## proyectos realizados
 
+
+### Codigo Morse Arduino
+[codigo morse arduino](https://github.com/marc125678/Arduino/blob/main/Codigo_Morse_Marc.ino)
+
+
 ### Proyectos solo con led y botón
 
 * [Proyecto Sketch](https://github.com/marc125678/Arduino/blob/main/sketch_feb04b.ino)
