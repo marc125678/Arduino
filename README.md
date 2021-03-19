@@ -122,6 +122,7 @@ Hola, soy Marc y... Esto es un repositorio de arduino... lo he hecho en clase...
 
 ### Bola de Cristal
 [Bola de Cristal loro](https://github.com/marc125678/Arduino/blob/main/Bola_DE_cristal_Loro_Marc.ino)
+[Bola de Cristal Marc](https://github.com/marc125678/Arduino/blob/main/Bola_DE_cristal_Marc.ino)
 
 
 
