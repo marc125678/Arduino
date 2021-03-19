@@ -1,7 +1,7 @@
 
 # Arduino 
 ## Descripcion del proyecto
-Hola, soy Marc y... Esto es un repositorio de arduino... lo he hecho en clase... me gusta mucho. 
+Hola, soy Marc y... Esto es un repositorio de arduino... lo he hecho en clase... con mis compañeros los mortadela y concuns 
 
 ## Índice de proyectos
 
