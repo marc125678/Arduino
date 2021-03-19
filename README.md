@@ -120,6 +120,9 @@ Hola, soy Marc y... Esto es un repositorio de arduino... lo he hecho en clase...
 ### Creando una secuencia de apagado
 [Creando una Secuencia de Apagado](https://github.com/marc125678/Arduino/blob/main/Creando_una_secuencia_de_apagado_marc.ino)
 
+### Bola de Cristal
+[Bola de Cristal loro](https://github.com/marc125678/Arduino/blob/main/Bola_DE_cristal_Loro_Marc.ino)
+
 
 
 
